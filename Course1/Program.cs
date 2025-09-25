@@ -40,8 +40,6 @@ string Surname = "SEVİNÇ";
 Console.WriteLine(Surname);
 #endregion
 
-#region Integer Değişkenler
-#endregion
 
 
 
